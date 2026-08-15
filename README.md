@@ -4,14 +4,15 @@
 
 ### 🚀 Full-Stack (MERN) Developer | Aspiring SDE | AWS & Cloud Enthusiast
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Real-World+Projects;Learning+AWS+%26+DevOps;Open+to+SDE+Opportunities)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Real-World+Projects;Cloud+%26+DevOps+Engineer;Open+to+SDE+Opportunities)
 
 </div>
+
 ---
 
 # 👨‍💻 About Me
 
-🎓 Final-Year B.Tech (CS/IT), VVP Institute of Engineering & Technology, Solapur
+🎓 B.Tech Graduate (CS/IT), VVP Institute of Engineering & Technology, Solapur
 
 💻 Full-Stack Developer skilled in the MERN stack
 
@@ -24,6 +25,31 @@
 🎯 Looking for an SDE role at a product-based company
 
 📍 Pune, Maharashtra, India
+
+---
+
+### 🚀 Full-Stack (MERN) 
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT Authentication
+- Redux
+- Tailwind CSS / Bootstrap
+
+
+### 🚀 DevOps
+
+- Kubernetes Administration
+- AWS Cloud
+- Terraform
+- Docker
+- Jenkins
+- Linux
+- Prometheus
+- Grafana
+- GitHub Actions
 
 ---
 
