@@ -79,6 +79,17 @@
 
 ---
 
+# ☁ AWS Services
+
+| Compute | Storage | Networking | Monitoring |
+|----------|----------|------------|------------|
+| EC2 | S3 | VPC | CloudWatch |
+| ECS | EBS | Route53 | SNS |
+| Auto Scaling | ECR | Security Groups | IAM |
+| ALB | RDS | Internet Gateway | CloudTrail |
+
+---
+
 ### 🚀 Projects
 
 | 🚀 Project Name | 🛠️ Technologies | 📝 Short Description | 🔗 Repository |
