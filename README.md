@@ -103,14 +103,16 @@
 # 🤝 Connect With Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/meghraj-khanat-/)
+
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/meghraj0526)
+
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:khanatmeghraj0@gmail.com)
 
 ---
 
 # 💡 Quote
 
-> "Consistency beats talent when talent doesn't stay consistent."
+> "There is nothing impossible to him who will try."
 
 ---
 
