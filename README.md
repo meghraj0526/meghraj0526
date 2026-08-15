@@ -1,9 +1,12 @@
+<div align="center">
+
 # Hi 👋, I'm Meghraj Khanat
 
 ### 🚀 Full-Stack (MERN) Developer | Aspiring SDE | AWS & Cloud Enthusiast
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Real-World+Projects;Learning+AWS+%26+DevOps;Open+to+SDE+Opportunities)
 
+</div>
 ---
 
 # 👨‍💻 About Me
