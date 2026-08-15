@@ -59,19 +59,19 @@
 
 ![Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp)
 
----
+
 
 ## 🌐 MERN Stack
 
 ![Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb)
 
----
+
 
 ## ☁ Cloud & DevOps
 
 ![Skills](https://skillicons.dev/icons?i=aws,docker,git,github,linux)
 
----
+
 
 ## 🗄 Database & Tools
 
